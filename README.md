@@ -1,2 +1,2 @@
 # git_course
-make changes in read me file
+make changes in read me file with using btach
